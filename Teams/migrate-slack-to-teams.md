@@ -202,7 +202,7 @@ There are both free solutions on GitHub and paid solutions you can use, dependin
 
 Once you’ve set up your new team and channel structure in Teams, you can copy the exported files into the appropriate document libraries in your Teams channels.
 
-To automate the importing of your content, there are several approaches you can consider. There are  free solutions on GitHub ([ChannelSurf](https://github.com/tamhinsf/ChannelSurf) or [Slack Export Viewer](https://github.com/hfaran/slack-export-viewer)) and partner solutions. Choose a solution based on your organization’s needs. 
+To automate the importing of your content, there are several approaches you can consider. There are  free solutions on GitHub ([ArgyleMigrator](https://github.com/rbrynteson/ArgyleMigrator) or [Slack Export Viewer](https://github.com/hfaran/slack-export-viewer)) and partner solutions. Choose a solution based on your organization’s needs. 
 
 ### Channel Files
 
